@@ -1,0 +1,21 @@
+<html>
+<head>
+<body>
+<forms>
+<h1>textbox</h1>
+<h2>username:<input type="text" name="username" value=" " ><br></h2>
+<br>
+<h1>radio buttton</h1>
+<h2>gender</h2>
+<input type="radio" name="gender" value=" " >male<br>
+<input type="radio" name="gender" value=" " >female
+<h1>check box</h1>
+<h2>hobbies</h2>
+<input type="checkbox" name="hobbies">playing<br>
+<input type="checkbox">reading<br>
+<input type="checkbox">painting<br>
+<input type="checkbox">writing<br>
+<input type="checkbox">singing<br>
+</forms>
+</body>
+</html>
